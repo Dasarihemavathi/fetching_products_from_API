@@ -5,7 +5,6 @@
 This project is a simple Product Listing application that fetches product data from the Fake Store API and displays it as responsive cards using HTML, CSS, and JavaScript.
 
 ## 🚀 Features
-
 * Fetches product data from the Fake Store API
 * Uses Fetch API with Async/Await
 * Displays the first 20 products
